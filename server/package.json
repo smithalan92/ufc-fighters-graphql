@@ -1,0 +1,22 @@
+{
+  "name": "ufc-fighters-graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL server for UFC fighters using the UFC API as the data source",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "serve": "nodemon src/index.js"
+  },
+  "author": "Alan Smith <smithalan2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
