@@ -6,6 +6,8 @@ This is a simple client and server to demo GraphQL usage with Vue.
 
 A simple server that allows GraphQL queries interfaces with the UFC API to retrieve a list of fighters. This list of fighters can be retrieved using GraphQL.
 
+### [Live Demo](http://ufc.mralansmith.com/)
+
 
 # Server
 
