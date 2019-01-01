@@ -27,8 +27,8 @@ const Fighters = {
           name: `${fighter.first_name} ${fighter.last_name}`,
           class: fightClass,
           wins: fighter.wins,
-          losses: fighter.draws,
-          draws: fighter.losses,
+          losses: fighter.losses,
+          draws: fighter.draws,
           active: fighter.fighter_status === 'Active',
           avatar: fighter.thumbnail
         }
