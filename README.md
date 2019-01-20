@@ -2,6 +2,8 @@
 
 ![](./img/screenshot.png)
 
+### Note: 20/01/2019 - UFC API seems to have been down the last few days.
+
 This is a simple client and server to demo GraphQL usage with Vue.
 
 A simple server that allows GraphQL queries interfaces with the UFC API to retrieve a list of fighters. This list of fighters can be retrieved using GraphQL.
